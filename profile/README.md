@@ -8,7 +8,7 @@
 
 Assalamu alaykum wa rahmatullahi wa barakaatuh,
 
-## What we are working on:
+## What are we working on:
  - Experimenting various machine learning models to search Quran and hadith in natural language
  - Experimenting machine learning to help users search by reciting an ayah
 

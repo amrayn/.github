@@ -10,7 +10,7 @@ Assalamu alaykum wa rahmatullahi wa barakaatuh,
 
 ## Quick links
 
- → Read about us at on [about page](https://amrayn.com/about)
+ → Read about us [here](https://amrayn.com/about)
  
  → Keep an eye on our [change log](https://amrayn.com/about/changes)
  

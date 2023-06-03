@@ -8,10 +8,6 @@
 
 Assalamu alaykum wa rahmatullahi wa barakaatuh,
 
-## What are we working on:
- - Experimenting various machine learning models and training data to search Quran and hadith in natural language
- - Experimenting machine learning to help users search by reciting an ayah
-
 ## Quick links
 
  → Read about us at on [about page](https://amrayn.com/about)

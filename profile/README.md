@@ -16,6 +16,8 @@ Assalamu alaykum wa rahmatullahi wa barakaatuh,
  
  → Consider donating via [this page](https://amrayn.com/donate)
  
- → Stay in touch via [our Facebook page](https://facebook.com/amraynofficial)
+## Stay in touch
+
+ <a href="https://facebook.com/amraynofficial"><img src="https://raw.githubusercontent.com/amrayn/.github/main/Facebook.png" width="32px"></a> <a href="https://twitter.com/amraynofficial"><img src="https://raw.githubusercontent.com/amrayn/.github/main/Twitter.png" width="32px"></a>
 
 [banner]: https://cdn.amrayn.com/assets/images/logo-about.png?v=2

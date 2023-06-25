@@ -18,6 +18,6 @@ Assalamu alaykum wa rahmatullahi wa barakaatuh,
  
 ## Stay in touch
 
- <a href="https://facebook.com/amraynofficial"><img src="https://raw.githubusercontent.com/amrayn/.github/main/Facebook.png" width="32px"></a> <a href="https://twitter.com/amraynofficial"><img src="https://raw.githubusercontent.com/amrayn/.github/main/Twitter.png" width="32px"></a>
+ <a href="https://facebook.com/amraynofficial"><img src="https://raw.githubusercontent.com/amrayn/.github/main/assets/Facebook.png" width="32px"></a> <a href="https://twitter.com/amraynofficial"><img src="https://raw.githubusercontent.com/amrayn/.github/main/assets/Twitter.png" width="32px"></a>
 
 [banner]: https://cdn.amrayn.com/assets/images/logo-about.png?v=2

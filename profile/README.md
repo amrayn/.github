@@ -15,6 +15,8 @@ Assalamu alaykum wa rahmatullahi wa barakaatuh,
  → Keep an eye on our [change log](https://amrayn.com/about/changes)
  
  → Consider donating via [this page](https://amrayn.com/donate)
+
+ → Sponsor us at [Github Sponsors](https://github.com/sponsors/amrayn)
  
 ## Stay in touch
 
